@@ -2,7 +2,7 @@
 
 >Sets the environment variable on the left side of the assignment to the value on the right side of the assignment.
 
-`export PATH="~/.composer/vendor/bin:$PATH"`
+`export PATH=~/.composer/vendor/bin:$PATH`
 
 `$PATH` is the default PATH assignment.
 
