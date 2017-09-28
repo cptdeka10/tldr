@@ -1,7 +1,6 @@
 # Export
 
->Sets the environment variable on the left side of the assignment to the value on the right side of the assignment.
-
+> Sets the environment variable on the left side of the assignment to the value on the right side of the assignment.
 
 - The command:
 
