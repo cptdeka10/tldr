@@ -6,15 +6,14 @@
 
 `export PATH=~/.composer/vendor/bin:$PATH`
 
-- Explanation 1:
+- The default PATH assignment.
 
-`$PATH` is the default PATH assignment.
+`$PATH`
 
-- Explanation 2:
+- Assign value to this variable using:
 
-`~/.composer/vendor/bin` is going to expand to `/home/username/.composer/vendor/bin` , 
-where `.composer` is hidden folder due to the leading dot.
+`=`
 
-- Explanation 3:
+- The separator, understooded by all application that want to use this variable:
 
-`~/.composer/vendor/bin:$PATH` have now transformed into long list of folders, separated by `:`.
+`:`
