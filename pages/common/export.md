@@ -6,7 +6,7 @@
 
 `export PATH=~/.composer/vendor/bin:$PATH`
 
-- The default PATH assignment.
+- The default PATH assignment:
 
 `$PATH`
 
